@@ -3,6 +3,8 @@
 <img src="home.jpg">
 <h4> Teacher Portal</h4>
 <img src="Admission.jpg">
+<h4>Login Portal</h4>
+<img src="Login.jpg">
 <img src="TeacherTimeTable.jpg">
 <h4> Student Portal</h4>
 <img src="Studentportal .jpg">
